@@ -43,23 +43,23 @@ cargo run
 ::end
 ```
 ### List saved commands
-``` tbot list``` 
+```tbot list``` 
 
 or with alias:
 
-``` tbot ls ```
+```tbot ls ```
 
 
 ### Run a saved command
 
-``` tbot run myscript ```
+```tbot run myscript ```
 
 or with alias:
 
 ```tbot r myscript```
 
 ### Delete a command
-``` tbot delete myscript ```
+```tbot delete myscript ```
 
 or with alias:
 
